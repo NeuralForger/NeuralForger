@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm madhumitha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An aspiring AI developer, driven by innovation and passionate about solving real-world challenges</h3>
 <img src="https://cdna.artstation.com/p/assets/images/images/025/924/688/original/pixel-jeff-stay.gif?1587360519" width="100%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neuralforger&label=Profile%20views&color=0e75b6&style=flat" alt="neuralforger" /> </p>
 
